@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# React Personal Portfolio Website
+### I've been creating this website to display my projects and learn more about React, JavaScript, and HTML/CSS! While it has yet to be deployed, the end goal is to make it fully interactive so people can message me, download my resume, and learn more about my skills.
 
+
+![Home Photo for site](src/assets/ReactScreenshot.png)
+![About me photo for site](src/assets/ReactScreenshot2.png)
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
