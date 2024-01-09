@@ -25,12 +25,12 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>Recent QA Specialist & Engineering Ambassador</small>
+              <small>Previous co-ops: Software Development Intern, Research Assistant & QA Specialist</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Interests</h5>
-              <small>•Software development •Medical technology •Cybersecurity</small>
+              <small>•Sports Technology •Medical Technology •Cybersecurity •Machine Learning Research</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -40,8 +40,8 @@ const About = () => {
           </div>
 
           <p>
-            Hey there! I'm a passionate engineering student with a strong work ethic and a deep love for technology. 
-            I thrive on challenges and constantly seek opportunities to expand my knowledge. 
+            Hey there! I'm a passionate engineering student with a strong work ethic and a deep love for technology and 
+            staying active. I thrive on challenges and constantly seek opportunities to expand my knowledge. 
             With a keen interest in exploring diverse sectors of the tech industry, I'm dedicated to making a positive 
             impact through continuous learning and growth.
           </p>
