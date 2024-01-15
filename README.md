@@ -6,6 +6,8 @@
 ![About me photo for site](src/assets/ReactScreenshot2.png)
 #
 
+### One of the current challenges I'm working through is altering the site to appear smooth and professional on a variety of devices. At the moment certain aspects have been changed to fit more nicely on smaller phones and tablets, but I'd like to also work towards specializing certain features for apple vs samsung devices.
+- 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
